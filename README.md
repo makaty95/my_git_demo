@@ -1,4 +1,4 @@
-# Update 1.2 releasing
+# Update 1.25 releasing
 
 ## candidate bugs fixed:
 1.fixing user name on profile doesn't appear
@@ -13,6 +13,8 @@
 2.adding user datetime for both caotain and rider
 
 3.adding loading screen when starting the program
+
+## using git branching\
 
 ## Next: ahmed fady.
 
